@@ -1,2 +1,3 @@
 # Apnacollege-demo
-This is my first repo file
+This is my first repo file.
+Author- Mayuree Shintre
