@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first repo file.
 <br>
-Author- Mayuree Shintre
+Author- Mayuree bhosale (Apnacollege)
